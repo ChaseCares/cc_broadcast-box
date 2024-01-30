@@ -276,6 +276,11 @@ If you wish to disable the test set the environment variable `NETWORK_TEST_ON_ST
 
 ### Docker
 
+Container available from:
+
+- Docker Hub: seaduboi/broadcast-box:latest
+- GitHub Containers: ghcr.io/glimesh/broadcast-box:latest
+
 A Docker image is also provided to make it easier to run locally and in production. The arguments you run the Dockerfile with depending on
 if you are using it locally or a server.
 
